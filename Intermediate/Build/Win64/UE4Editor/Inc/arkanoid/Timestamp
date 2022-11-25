@@ -1,6 +1,7 @@
 D:\sis457d\arkanoid\Source\arkanoid\arkanoidGameModeBase.h
-D:\sis457d\arkanoid\Source\arkanoid\Brick.h
+D:\sis457d\arkanoid\Source\arkanoid\Ball.h
 D:\sis457d\arkanoid\Source\arkanoid\Paddle.h
 D:\sis457d\arkanoid\Source\arkanoid\Paddle_Player_Controller.h
-D:\sis457d\arkanoid\Source\arkanoid\Ball.h
 D:\sis457d\arkanoid\Source\arkanoid\BallBound.h
+D:\sis457d\arkanoid\Source\arkanoid\Brick.h
+D:\sis457d\arkanoid\Source\arkanoid\Queen.h

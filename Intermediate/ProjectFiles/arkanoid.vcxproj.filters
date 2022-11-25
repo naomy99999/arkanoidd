@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\arkanoid.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CA5D0484-1E0E-4291-82B5-036E18901D45}</UniqueIdentifier>
+      <UniqueIdentifier>{C7E75BFC-C269-44EA-80A8-88E4ED26B5E4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\arkanoid.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\arkanoidEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{1EB30D93-93D6-49A8-88AA-BCBD7F6EB997}</UniqueIdentifier>
+      <UniqueIdentifier>{88A1FB85-21E8-4E87-A987-13C420AB8C67}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +26,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\arkanoid">
-      <UniqueIdentifier>{5AB7BEE4-6698-4AC5-A468-7C6DB0FC53B5}</UniqueIdentifier>
+      <UniqueIdentifier>{D85278D3-5871-4E11-BBC8-3BBF41453127}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\arkanoid\arkanoid.Build.cs">
       <Filter>Source\arkanoid</Filter>
@@ -69,6 +75,12 @@
       <Filter>Source\arkanoid</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\arkanoid\Paddle_Player_Controller.h">
+      <Filter>Source\arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\arkanoid\Queen.cpp">
+      <Filter>Source\arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\arkanoid\Queen.h">
       <Filter>Source\arkanoid</Filter>
     </ClInclude>
   </ItemGroup>
