@@ -21,6 +21,8 @@ public:
 
 	UPROPERTY()
 		class APaddle* paleta;
+	class AQueen* reyna;
+
 
 protected:
 
