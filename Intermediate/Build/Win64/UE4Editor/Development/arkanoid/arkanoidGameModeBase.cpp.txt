@@ -1,0 +1,11 @@
+D:\sis457d\arkanoid\Intermediate\Build\Win64\UE4Editor\Development\arkanoid\Definitions.arkanoid.h
+D:\sis457d\arkanoid\Source\arkanoid\arkanoidGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\sis457d\arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\arkanoid\arkanoidGameModeBase.generated.h
+D:\sis457d\arkanoid\Source\arkanoid\Brick.h
+D:\sis457d\arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\arkanoid\Brick.generated.h
+D:\sis457d\arkanoid\Source\arkanoid\Paddle.h
+D:\sis457d\arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\arkanoid\Paddle.generated.h
