@@ -22,3 +22,33 @@ void AQueen::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
+
+void AQueen::setBrazo(FString myBrazo)
+{
+	brazo = myBrazo;
+}
+
+void AQueen::setRostro(FString myRostro)
+{
+	rostro = myRostro;
+}
+
+void AQueen::setPierna(FString myPierna)
+{
+	pierna = myPierna;
+}
+
+void AQueen::setMovimientoX(float myMovimientoX)
+{
+	movimientoX = myMovimientoX;
+}
+
+void AQueen::setMovimientoY(float myMovimientoY)
+{
+	movimientoY = myMovimientoY;
+}
+
+void AQueen::setProyectil(FString myProyectil) {
+
+	proyectil = myProyectil;
+}
